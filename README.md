@@ -1,1 +1,1 @@
-Heare I prepare all my topics of JavaScript for Interview Prepration.
+Here I prepare all my topics of JavaScript for Interview Prepration.
